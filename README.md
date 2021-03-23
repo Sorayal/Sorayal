@@ -1,4 +1,4 @@
-### Hello and welcome, visitor.
+### Hello and welcome, dear visitor 👋.
 My name is Sascha. Feel free to look around here.
 
 <!--
