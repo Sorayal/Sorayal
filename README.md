@@ -1,5 +1,6 @@
-### Hi there 👋
-I´m Sascha. Welcome to my little corner. 
+### Hello and welcome, visitor.
+My name is Sascha. Feel free to look around here.
+
 <!--
 **Sorayal/Sorayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--Hi there 👋 -->
