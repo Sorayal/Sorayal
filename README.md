@@ -1,5 +1,5 @@
 ### Hello and welcome, dear visitor 👋.
-My name is Sascha and I am a junior software developer since 2021 after I switched my career. Feel free to look around here.
+My name is Sascha and I am a software developer since 2021 after I switched my career. Feel free to look around here.
 
 <!--
 **Sorayal/Sorayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
