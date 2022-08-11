@@ -3,7 +3,7 @@ Thank you for looking in. I am a coder since 2021 after I switched my career.
 It´s a collection of practice excercises during my learning journey. Feel free to look around here.
 
 ## Some Topics
-- [Java](https://github.com/Sorayal/Java_Training)
+- [Java](https://github.com/Sorayal/Java_Training) and [Java with DB](https://github.com/Sorayal/Java_Training_with_DB)
 - [Python](https://github.com/Sorayal/Python_Training)
 - [Web Development](https://github.com/Sorayal/Web_Development_Training)
 - [JavaScript](https://github.com/Sorayal/JavaScript_Training)
