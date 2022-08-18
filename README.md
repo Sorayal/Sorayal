@@ -1,6 +1,7 @@
 ### Hello and welcome, dear visitor 👋.
 Thank you for looking in. I am a coder since 2021 after I switched my career. 
-It´s a collection of practice excercises during my learning journey. Feel free to look around here.
+At my current job as backend developer I am working mainly with Java and Spring Boot.
+Here is my collection of practice exercises during my learning journey. Feel free to look around here.
 
 ## Some Topics
 - [Java](https://github.com/Sorayal/Java_Training) and [Java with DB](https://github.com/Sorayal/Java_Training_with_DB)
