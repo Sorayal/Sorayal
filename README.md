@@ -1,5 +1,5 @@
 ### Hello and welcome, dear visitor 👋.
-Thank you for looking in. I am a junior coder since 2021 after I switched my career. 
+Thank you for looking in. I am a junior developer since 2021 after I switched my career. 
 At my current job as backend developer I am working mainly with Java and Spring Boot.
 Here is my collection of practice exercises during my learning journey. Feel free to look around here.
 
