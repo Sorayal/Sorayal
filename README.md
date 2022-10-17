@@ -8,8 +8,8 @@ Here is my collection of practice exercises during my learning journey. Feel fre
 - [Python](https://github.com/Sorayal/Python_Training)
 - [Web Development](https://github.com/Sorayal/Web_Development_Training)
 - [JavaScript](https://github.com/Sorayal/JavaScript_Training)
+- [C](https://github.com/Sorayal/C) and [C++](https://github.com/Sorayal/Cpp_Training)
 - [C#](https://github.com/Sorayal/CSharp)
-- [C](https://github.com/Sorayal/C)
 
 
 
