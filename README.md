@@ -12,7 +12,7 @@ Here is my collection of practice exercises during my learning journey. Feel fre
 <!--
 - [Web Development](https://github.com/Sorayal/Web_Development_Training)
 - [JavaScript](https://github.com/Sorayal/JavaScript_Training)
--->
+
 
 
 
