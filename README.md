@@ -6,15 +6,16 @@ Here is my collection of practice exercises during my learning journey. Feel fre
 ## Some Topics
 - [Java](https://github.com/Sorayal/Java_Training) and [Java with DB](https://github.com/Sorayal/Java_Training_with_DB)
 - [Python](https://github.com/Sorayal/Python_Training)
-- [C](https://github.com/Sorayal/C) and [C++](https://github.com/Sorayal/Cpp_Training)
 - [C#](https://github.com/Sorayal/CSharp)
-- [Web Development](https://github.com/Sorayal/Web_Development_Training)
-- [JavaScript](https://github.com/Sorayal/JavaScript_Training)
-
-
-
+- [C](https://github.com/Sorayal/C)
 
 <!--
+- [Web Development](https://github.com/Sorayal/Web_Development_Training)
+- [JavaScript](https://github.com/Sorayal/JavaScript_Training)
+-->
+
+
+
 **Sorayal/Sorayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
