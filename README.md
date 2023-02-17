@@ -5,7 +5,7 @@ Here is my collection of practice exercises during my learning journey. Feel fre
 
 ## Some Topics
 - [Java](https://github.com/Sorayal/Java_Training) and [Java with DB](https://github.com/Sorayal/Java_Training_with_DB)
-- [Python](https://github.com/Sorayal/Python_Training)
+- [Python](https://github.com/Sorayal/Python_Small_Projects)
 - [C#](https://github.com/Sorayal/CSharp)
 - [C](https://github.com/Sorayal/C)
 
