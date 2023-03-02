@@ -11,4 +11,4 @@ Here is mainly my collection of some practice projects. Feel free to look around
 - [C](https://github.com/Sorayal/C)
 
 
-Currently cleaning up my repositories, removing training stuff and updating some stuff.
+Currently cleaning up my repositories, removing repos with training stuff and updating some stuff.
