@@ -1,10 +1,12 @@
-Hint: Currently cleaning up my repositories, removing repos with training stuff and updating some stuff.
+Hint: Currently cleaning up my repositories, removing repos with training stuff and updating 
+some stuff.
 
 ### Hello and welcome, dear visitor 👋.
 
-Thank you for looking in. I am a junior developer since 2021 after I switched my career. 
-At my current job as backend developer I am working mainly with Java and Spring Boot.
-Here is mainly my collection of some practice projects. Feel free to look around here.
+Thank you for looking in. I am a junior developer since 2021 after I switched my career.  
+At my current job as backend developer I am working mainly with Java and Spring Boot.  
+Here is mainly my collection of some practice projects. Feel free to look around here  
+and have a good day.
 
 ## Some Topics
 - [Small Java Projects](https://github.com/Sorayal/Java_Small_Projects)
@@ -22,10 +24,10 @@ Explanation:
 5. Expert knowledge in theory and practice, capable of teaching it.
 
 Please be aware, it´s a subjective matrix. Also because technologies and tools  
-can change very much over the time, some skills might drop again. One example would
-be C Sharp which I used regulary in the past. DotNet evolved alot, also the language  
-in many ways. So I am not update to date there anymore and not aware about new features  
-and standards to write modern code.
+can change very much over the time, some skills might drop again. One example  
+would be C Sharp which I used regulary in the past. DotNet evolved alot, also  
+the language in many ways. So I am not update to date there anymore and not  
+aware about new features and standards to write modern code.
 
 | **Technology, Tool**     | 1 | 2 | 3 | 4 | 5 |
 |----------------------|---|---|---|---|---|
