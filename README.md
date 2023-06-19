@@ -31,7 +31,7 @@ aware about new features and standards to write modern code.
 
 | **Technology, Tool**     | 1 | 2 | 3 | 4 | 5 |
 |----------------------|---|---|---|---|---|
-| **Programming Lanugages**  |   |   |   |   |   |
+| **Programming Languages**  |   |   |   |   |   |
 |||||||
 | Java                 |   |   | X |   |   |
 | Python               |   | X |   |   |   |
