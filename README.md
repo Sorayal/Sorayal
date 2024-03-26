@@ -12,7 +12,6 @@ and have a good day.
 - [Small Java Projects](https://github.com/Sorayal/Java_Small_Projects)
 - [Small Python Projects](https://github.com/Sorayal/Python_Small_Projects)
 - [C#](https://github.com/Sorayal/CSharp)
-- [C](https://github.com/Sorayal/C)
 
 ## Skill Matrix (5 levels)
 
